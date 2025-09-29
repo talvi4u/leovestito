@@ -321,11 +321,11 @@ input.input100 {
 /*---------------------------------------------*/
 .wrappic1 {
   display: block;
-  width: 100px;
+  width: 300px;
   text-align: center;
 }
 .wrappic1 img {
-  max-width: 30%;
+  max-width: 50%;
 }
 
 /*---------------------------------------------*/
@@ -509,5 +509,6 @@ input.input100 {
 
 
 }
+
 
 
